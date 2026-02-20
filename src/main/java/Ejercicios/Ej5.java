@@ -22,7 +22,6 @@ public class Ej5 {
                 frasePar = frasePar + frase.charAt(i);
             }else{
                 fraseImpar = fraseImpar + frase.charAt(i);
-                
             }
         }
         System.out.println(frasePar);

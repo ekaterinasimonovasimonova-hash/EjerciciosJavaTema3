@@ -16,7 +16,6 @@ public class Ej4 {
                     + "la frase en MINUSCULAS: ");
             opcion = sc.nextInt();
             
-            
         }while(frase.length()>80 );
         
         switch (opcion) {
